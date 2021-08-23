@@ -1289,8 +1289,8 @@
               02
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 4.3478260869565215px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 6.521739130434782px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               03
             </div>
                     <div class="entry">
@@ -1314,8 +1314,8 @@
               07
             </div>
                     <div class="entry">
-              <span class="value">20</span>
-              <div class="bar" style="height: 43.47826086956522px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">19</span>
+              <div class="bar" style="height: 41.30434782608695px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               08
             </div>
                     <div class="entry">
@@ -1405,8 +1405,8 @@
                 Sun
               </div>
                         <div class="entry">
-                <span class="value">21</span>
-                <div class="bar" style="height: 26.923076923076923px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">22</span>
+                <div class="bar" style="height: 28.205128205128204px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
@@ -1430,8 +1430,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">28</span>
-                <div class="bar" style="height: 35.8974358974359px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">27</span>
+                <div class="bar" style="height: 34.61538461538461px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Sat
               </div>
                     </div>
