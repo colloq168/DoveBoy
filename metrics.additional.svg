@@ -1284,8 +1284,8 @@
               01
             </div>
                     <div class="entry">
-              <span class="value">7</span>
-              <div class="bar" style="height: 14.583333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               02
             </div>
                     <div class="entry">
@@ -1374,8 +1374,8 @@
               19
             </div>
                     <div class="entry">
-              <span class="value">9</span>
-              <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               20
             </div>
                     <div class="entry">
@@ -1410,8 +1410,8 @@
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">17</span>
-                <div class="bar" style="height: 21.794871794871796px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">16</span>
+                <div class="bar" style="height: 20.51282051282051px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
@@ -1430,8 +1430,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">12</span>
-                <div class="bar" style="height: 15.384615384615385px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">13</span>
+                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sat
               </div>
                     </div>
